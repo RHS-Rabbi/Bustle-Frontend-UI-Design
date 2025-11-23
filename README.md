@@ -26,7 +26,7 @@ A modern, responsive, and pixel-perfect frontend UI template focused on deliveri
 
 ## 🎨 Design assets
 
-* Figma / XD design file: `assets/designs/bustle-figma-link` *(replace with actual link)*
+* Figma / XD design file: `assets/designs/bustle-figma-link` 
 * Images: `assets/images/` (use optimized WebP/AVIF for best performance)
 
 ## 📁 Suggested folder structure
@@ -43,7 +43,6 @@ Bustle-Frontend-UI-Design/
 │  │  ├─ main.css  
 │  └─ js/
 │     └─ main.js
-├─ public/ (if using Vite/parcel)
 └─ README.md
 ```
 
